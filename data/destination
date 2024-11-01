@@ -1,0 +1,5 @@
+- Write a program that allows the user to copy files. The user needs to provide a source file and a target file.
+
+- The program copies the source file to the target file and displays the number of bytes in the file. The program should warn the user if the source file does not exist or if the target file already exists.
+
+- To copy the contents of a source file to a target file, you should use an input stream to read bytes from the source file and an output stream to send bytes to the target file, regardless of the contents of the file.
